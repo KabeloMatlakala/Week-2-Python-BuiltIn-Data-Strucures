@@ -8,7 +8,6 @@ This repository contains Python exercises focused on **built-in data structures*
 - [Files](#files)
 - [Exercises](#exercises)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
@@ -46,7 +45,7 @@ Here are the key exercises covered in this repository:
 To run the exercises:
 
 1. Clone the repository:
-   ```bash
+  ```bash
    git clone https://github.com/KabeloMatlakala/Week-2-Python-BuiltIn-Data-Strucures.git
   ```
 
