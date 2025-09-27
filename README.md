@@ -1,4 +1,4 @@
-# Week-2-Python-BuiltIn-Data-Structures
+# Python-BuiltIn-Data-Structures
 
 This repository contains Python exercises focused on **built-in data structures** such as lists, sets, tuples, dictionaries, and more. These exercises are designed to help understand and practice the various built-in data structures available in Python, as well as their use cases.
 
