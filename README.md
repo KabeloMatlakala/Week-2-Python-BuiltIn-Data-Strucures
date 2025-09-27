@@ -46,16 +46,16 @@ To run the exercises:
 
 1. Clone the repository:
   ```bash
-   git clone https://github.com/KabeloMatlakala/Week-2-Python-BuiltIn-Data-Strucures.git
+   git clone https://github.com/KabeloMatlakala/Python-BuiltIn-Data-Strucures.git
   ```
 
 2. Navigate to the project directory:
 
   ```bash
-  cd Week-2-Python-BuiltIn-Data-Structures
+  cd Python-BuiltIn-Data-Structures
   ```
 
 3. Run the Python script:
   ```bash
-  python week_2_python_data_structures.py
+  python python_data_structures.py
 ```
